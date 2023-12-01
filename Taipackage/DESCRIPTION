@@ -1,0 +1,12 @@
+Package: Taipackage
+Type: Package
+Title: Plot interactive image intensity graphs
+Version: 0.1.0
+Author: Taiwo Olajide
+Maintainer: <tolajide@vols.utk.edu>
+Description: This package works on Image J image intensity measurement's csv file,it gets the ratio of the Integrated intensity and raw intensity and makes an interactive dot plot for the value to the area of the cell.
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
